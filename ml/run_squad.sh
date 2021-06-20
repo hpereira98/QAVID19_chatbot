@@ -15,7 +15,7 @@ python3 run_squad.py  \
     --model_type bert   \
     --model_name_or_path bert-base-multilingual-cased  \
     --output_dir models/bert/ \
-    --data_dir data/${DATASET_NAME}    \
+    --data_dir data/squad_en    \
     --overwrite_output_dir \
     --overwrite_cache \
     --do_train  \
@@ -23,8 +23,9 @@ python3 run_squad.py  \
     --version_2_with_negative \
     --do_eval   \
     --predict_file dev-v2.0.json   \
+    --per_gpu_train_batch_size 2   \
     --learning_rate 3e-5   \
-    --num_train_epochs 3   \
+    --num_train_epochs 2   \
     --max_seq_length 384   \
     --doc_stride 128   \
     --threads 10   \
