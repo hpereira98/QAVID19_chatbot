@@ -71,10 +71,18 @@ async def get_chatbot_answer(request: Request):
     except Exception as e:
         raise HTTPException(status_code=400, detail=f"Missing parameter: {e}")
 
-    idx = f"covid_{lang}"
+    num_pages = 3
+
+    if 'version' in body:
+        if body['version']:
+            idx = f"covid_{lang}_{body['version']}"
+            if body['version'] == 'v3':
+                num_pages = 1
+    else:
+        idx = f"covid_{lang}"
 
     print(f"Searching on index: {idx}")
-    es_res = elasticsearch.search(es, idx, question, 3)
+    es_res = elasticsearch.search(es, idx, question, num_pages)
     print(f"ElasticSearch Fetch Time: {datetime.now() - start_time}")
 
     if not es_res:
@@ -88,6 +96,7 @@ async def get_chatbot_answer(request: Request):
     answers = []
 
     for idx, doc in enumerate(found_documents):
+        doc_score = doc['_score']
         doc_url = doc['_source']['url']
         doc_text = doc['_source']['text']
 
@@ -102,8 +111,10 @@ async def get_chatbot_answer(request: Request):
 
         print(f"url: {doc_url}, answer: {answer}")
         print(f"BERT Execution Time (s): {exec_time}")
+        print(f"ES Score: {doc_score}")
         answer['url'] = doc_url
         answer['exec_time'] = exec_time
+        answer['es_score'] = doc_score
         answers.append(answer)
 
     if answers:

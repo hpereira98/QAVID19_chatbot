@@ -2,12 +2,12 @@ import torch
 from transformers import pipeline, AutoTokenizer, AutoModelForQuestionAnswering, BertTokenizer, BertForQuestionAnswering
 from collections import OrderedDict
 
-def init_tokenizer(model):
-    tokenizer = BertTokenizer.from_pretrained(model, use_fast=False)
+def init_tokenizer(model_path):
+    tokenizer = BertTokenizer.from_pretrained(model_path, use_fast=False)
     return tokenizer
 
-def init_model(model):
-    model = BertForQuestionAnswering.from_pretrained(model, return_dict=False)
+def init_model(model_path):
+    model = BertForQuestionAnswering.from_pretrained(model_path, return_dict=False)
     return model
 
 def init_pipeline(model, tokenizer):
