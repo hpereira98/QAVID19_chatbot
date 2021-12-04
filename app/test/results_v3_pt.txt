@@ -1,0 +1,12 @@
+Starting PT QA testing...
+Q1:
+{"result":{"score":0.06071297824382782,"start":1552,"end":1571,"answer":"saude.pt/?p=3579435","url":"https://covid19.min-saude.pt/category/perguntas-frequentes/feed/","exec_time":8.027044,"es_score":8.08448}}Q2:
+{"result":{"score":7.500510491809109e-06,"start":836,"end":856,"answer":"Apoios Eletricidade","url":"https://covid19estamoson.gov.pt/apoios-eletricidade/","exec_time":6.056806,"es_score":5.1191373}}Q3:
+{"result":{"score":0.011624678038060665,"start":3426,"end":3456,"answer":"pandemia da doença COVID -19.","url":"https://covid19.min-saude.pt/questoes-frequentes/","exec_time":33.035619,"es_score":19.957014}}Q4:
+{"result":{"score":0.9415639042854309,"start":8947,"end":8968,"answer":"através de alimentos,","url":"https://covid19.min-saude.pt/category/perguntas-frequentes/?t=retoma-das-atividades-e-agora","exec_time":162.263697,"es_score":10.164611}}Q5:
+{"result":{"score":0.62833571434021,"start":32555,"end":32582,"answer":"ações preventivas habituais","url":"https://covid19.min-saude.pt/category/perguntas-frequentes/?t=retoma-das-atividades-e-agora","exec_time":163.040673,"es_score":16.783964}}Q6:
+{"result":{"score":0.006917162798345089,"start":27061,"end":27074,"answer":"colaboradores","url":"https://covid19.min-saude.pt/category/perguntas-frequentes/?t=retoma-das-atividades-e-agora","exec_time":163.151304,"es_score":10.801659}}Q7:
+{"result":{"score":0.030119607225060463,"start":5825,"end":5859,"answer":"os dois vírus são muito diferentes","url":"https://covid19.min-saude.pt/category/perguntas-frequentes/?t=retoma-das-atividades-e-agora","exec_time":162.629614,"es_score":12.067888}}Q8:
+{"result":{"score":0.06301386654376984,"start":38496,"end":38525,"answer":"antibióticos não são efetivos","url":"https://covid19.min-saude.pt/category/perguntas-frequentes/?t=retoma-das-atividades-e-agora","exec_time":162.661273,"es_score":12.119408}}Q9:
+{"result":{"score":0.9631581902503967,"start":34423,"end":34447,"answer":"gotículas respiratórias.","url":"https://covid19.min-saude.pt/category/perguntas-frequentes/?t=retoma-das-atividades-e-agora","exec_time":162.255562,"es_score":9.70346}}Q10:
+{"result":{"score":0.8541670441627502,"start":10618,"end":10636,"answer":"horas ou até dias,","url":"https://covid19.min-saude.pt/category/perguntas-frequentes/?t=retoma-das-atividades-e-agora","exec_time":162.554614,"es_score":14.458093}}DONE!

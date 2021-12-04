@@ -1,0 +1,12 @@
+Starting EN QA testing...
+Q1:
+{"result":{"score":0.7260007262229919,"start":4003,"end":4019,"answer":"through faeces?","url":"https://www.who.int/westernpacific/emergencies/covid-19/information/mythbusters","exec_time":15.367428,"es_score":4.4349594}}Q2:
+{"result":{"score":0.021606314927339554,"start":1100,"end":1111,"answer":"coronavirus","url":"https://www.nhs.uk/conditions/coronavirus-covid-19/symptoms/what-to-do-if-you-get-symptoms-again/","exec_time":4.311228,"es_score":3.2946343}}Q3:
+{"result":{"score":0.2585216462612152,"start":715,"end":734,"answer":"Coronavirus disease","url":"https://www.who.int/multi-media/details/covid-19-social-media-q-a---12-october-2021","exec_time":80.571638,"es_score":17.5334}}Q4:
+{"result":{"score":0.005649142432957888,"start":705,"end":724,"answer":"Coronavirus disease","url":"https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/coronavirus-disease-covid-19-climate-change","exec_time":29.579247,"es_score":12.521194}}Q5:
+{"result":{"score":0.3950907588005066,"start":29475,"end":29519,"answer":"Read How to Protect Yourself to learn more.","url":"https://www.cdc.gov/coronavirus/2019-ncov/community/correction-detention/faq.html","exec_time":162.98991,"es_score":12.355144}}Q6:
+{"result":{"score":0.00407126359641552,"start":4843,"end":4855,"answer":"fabric mask,","url":"https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/when-and-how-to-use-masks","exec_time":22.477135,"es_score":14.622446}}Q7:
+{"result":{"score":0.06033125892281532,"start":15072,"end":15148,"answer":"even when the employee or a family member are exhibiting symptoms compatible","url":"https://www.ecdc.europa.eu/en/covid-19/latest-evidence/transmission","exec_time":49.567792,"es_score":11.737822}}Q8:
+{"result":{"score":0.07910177111625671,"start":20821,"end":20835,"answer":"CANNOT prevent","url":"https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters","exec_time":67.613711,"es_score":11.104211}}Q9:
+{"result":{"score":0.07502159476280212,"start":1281,"end":1357,"answer":"Transmission could occur through direct contact with an infected individual,","url":"https://www.ecdc.europa.eu/en/covid-19/questions-answers/questions-answers-various","exec_time":20.622631,"es_score":16.366974}}Q10:
+{"result":{"score":0.1823384016752243,"start":4196,"end":4204,"answer":"how long","url":"https://www.cdc.gov/coronavirus/2019-ncov/lab/grows-virus-cell-culture.html","exec_time":34.980194,"es_score":14.195935}}DONE!

@@ -1,0 +1,12 @@
+Starting PT QA testing...
+Q1:
+{"result":{"score":0.11046666651964188,"start":1781,"end":1836,"answer":"para lhe fornecermos a melhor experiência de navegação.","url":"http://covid19.min-saude.pt/","exec_time":11.478269,"es_score":5.920704}}Q2:
+{"result":{"score":0.1235290989279747,"start":1298,"end":1330,"answer":"recuperação económica e social.","url":"https://covid19.min-saude.pt/?p=13047774","exec_time":13.272527,"es_score":4.981772}}Q3:
+{"result":{"score":0.0633285716176033,"start":4640,"end":4673,"answer":"desencadear efeitos indesejáveis.","url":"https://covid19.min-saude.pt/?p=8382199","exec_time":101.18478,"es_score":16.16233}}Q4:
+{"result":{"score":0.9642348885536194,"start":8930,"end":8951,"answer":"através de alimentos,","url":"https://covid19.min-saude.pt/category/perguntas-frequentes/?t=como-se-transmite-2","exec_time":163.196175,"es_score":10.164611}}Q5:
+{"result":{"score":0.8129612803459167,"start":32572,"end":32599,"answer":"ações preventivas habituais","url":"https://covid19.min-saude.pt/category/perguntas-frequentes/","exec_time":163.488856,"es_score":16.783964}}Q6:
+{"result":{"score":0.04648353159427643,"start":26940,"end":26949,"answer":"clientes,","url":"https://covid19.min-saude.pt/category/perguntas-frequentes/","exec_time":162.405501,"es_score":10.801659}}Q7:
+{"result":{"score":0.03020274080336094,"start":5825,"end":5859,"answer":"os dois vírus são muito diferentes","url":"https://covid19.min-saude.pt/category/perguntas-frequentes/?t=como-se-transmite-2","exec_time":162.405712,"es_score":12.067888}}Q8:
+{"result":{"score":0.06301386654376984,"start":38496,"end":38525,"answer":"antibióticos não são efetivos","url":"https://covid19.min-saude.pt/category/perguntas-frequentes/?t=como-se-transmite-2","exec_time":163.512138,"es_score":12.119408}}Q9:
+{"result":{"score":0.9631581902503967,"start":34423,"end":34447,"answer":"gotículas respiratórias.","url":"https://covid19.min-saude.pt/category/perguntas-frequentes/?t=como-se-transmite-2","exec_time":162.372276,"es_score":9.70346}}Q10:
+{"result":{"score":0.8741136789321899,"start":10601,"end":10619,"answer":"horas ou até dias,","url":"https://covid19.min-saude.pt/category/perguntas-frequentes/?t=como-se-transmite-2","exec_time":162.250366,"es_score":14.458093}}DONE!

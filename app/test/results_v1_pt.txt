@@ -1,0 +1,12 @@
+Starting PT QA testing...
+Q1:
+{"result":{"score":0.9966791272163391,"start":16686,"end":16707,"answer":"através de alimentos,","url":"https://covid19.min-saude.pt/category/perguntas-frequentes/?t=quem-esta-em-risco","exec_time":240.107351,"es_score":6.22378}}Q2:
+{"result":{"score":0.9943094849586487,"start":12276,"end":12296,"answer":"Corona Virus Disease","url":"https://especiais.g1.globo.com/bemestar/2020/coronavirus/?_ga=2.213407197.851471509.1583321938-1866848393.1583321938","exec_time":75.338542,"es_score":5.870456}}Q3:
+{"result":{"score":0.4093293249607086,"start":45255,"end":45265,"answer":"telefone.","url":"https://covid19.min-saude.pt/category/perguntas-frequentes/?t=quem-esta-em-risco","exec_time":235.407763,"es_score":11.642396}}Q4:
+{"result":{"score":0.9918541312217712,"start":16686,"end":16707,"answer":"através de alimentos,","url":"https://covid19.min-saude.pt/category/perguntas-frequentes/?t=quem-esta-em-risco","exec_time":234.608484,"es_score":14.410699}}Q5:
+{"result":{"score":0.8209541440010071,"start":33821,"end":33834,"answer":"lavar as mãos","url":"https://covid19.min-saude.pt/category/perguntas-frequentes/?t=como-se-transmite-2","exec_time":275.418318,"es_score":15.750288}}Q6:
+{"result":{"score":0.0018230228452011943,"start":41357,"end":41370,"answer":"colaboradores","url":"https://covid19.min-saude.pt/category/perguntas-frequentes/?t=quem-esta-em-risco","exec_time":236.392711,"es_score":12.931345}}
+{"result":{"score":0.06816259026527405,"start":43486,"end":43505,"answer":"Coronavirus Disease","url":"https://covid19.min-saude.pt/category/perguntas-frequentes/?t=retoma-das-atividades-e-agora","exec_time":176.517455,"es_score":15.853691}}
+{"result":{"score":0.02884424291551113,"start":57396,"end":57425,"answer":"antibióticos não são efetivos","url":"https://covid19.min-saude.pt/category/perguntas-frequentes/?t=quem-esta-em-risco","exec_time":238.742065,"es_score":11.729201}}
+{"result":{"score":0.10510948300361633,"start":6563,"end":6582,"answer":"coronavirus disease","url":"https://rr.sapo.pt/noticia/amp/pais/2021/04/15/covid-19-vacina-portuguesa-com-resultados-promissores-nos-ensaios-pre-clinicos-em-animais/234734/modalidades","exec_time":51.184515,"es_score":11.184871}}
+{"result":{"score":0.9956027865409851,"start":3564,"end":3576,"answer":"3 a 20 dias,","url":"https://g1.globo.com/bemestar/coronavirus/noticia/2020/04/02/uso-de-mascaras-diminui-virus-no-ambiente-e-pode-frear-2a-onda-de-contaminacao-por-coronavirus-no-brasil-diz-medica.ghtml","exec_time":118.173161,"es_score":17.520554}}

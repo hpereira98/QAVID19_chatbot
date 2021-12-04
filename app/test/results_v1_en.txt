@@ -1,0 +1,12 @@
+Starting EN QA testing...
+Q1:
+{"result":{"score":0.6819196343421936,"start":7668,"end":7689,"answer":"more easily than SARS","url":"https://www.washingtonpost.com/health/2020/02/28/what-you-need-know-about-coronavirus/?arc404=true&itid=lk_inline_manual_15","exec_time":116.15396,"es_score":6.968636}}Q2:
+{"result":{"score":0.9924445748329163,"start":56085,"end":56104,"answer":"Coronavirus Disease","url":"https://www.blf.org.uk/support-for-you/coronavirus/what-should-people-with-a-lung-condition-do-now/copd","exec_time":103.187209,"es_score":5.240504}}Q3:
+{"result":{"score":0.013086257502436638,"start":1661,"end":1671,"answer":"missing it","url":"https://www.rushlimbaugh.com/daily/2020/02/24/overhyped-coronavirus-weaponized-against-trump/","exec_time":57.776127,"es_score":19.04191}}Q4:
+{"result":{"score":0.1419161856174469,"start":2198,"end":2244,"answer":"COVID-19 can spread via airborne transmission.","url":"https://covid19.nj.gov/faqs/about-the-virus","exec_time":135.226795,"es_score":13.339786}}Q5:
+{"result":{"score":0.3716484308242798,"start":4913,"end":4929,"answer":"Wash your hands,","url":"https://www.cpr.org/2020/03/04/faq-got-questions-about-coronavirus-weve-got-some-answers/","exec_time":44.86973,"es_score":20.417625}}Q6:
+{"result":{"score":0.4321219325065613,"start":3244,"end":3254,"answer":"Compulsory","url":"https://www.channelnewsasia.com/news/singapore/covid19-wearing-masks-compulsory-lawrence-wong-12640828","exec_time":57.508695,"es_score":19.259638}}Q7:
+{"result":{"score":0.7011609077453613,"start":11698,"end":11712,"answer":"very different","url":"https://www.wired.com/story/most-kids-only-get-mildly-sick-from-covid-19-but-not-all/amp/","exec_time":64.545225,"es_score":13.397824}}Q8:
+{"result":{"score":0.34661757946014404,"start":11971,"end":11981,"answer":"preventing","url":"https://www.who.int/news-room/q-a-detail/coronavirus-disease-covid-19","exec_time":92.479725,"es_score":20.021086}}Q9:
+{"result":{"score":0.28995001316070557,"start":16831,"end":16884,"answer":"kids generally don’t seem to be getting severely ill.","url":"https://www.vox.com/science-and-health/2020/3/20/21173472/coronavirus-pandemic-unknowns-questions-seasonality-reinfection-covid-19","exec_time":102.534498,"es_score":22.822405}}Q10:
+{"result":{"score":0.9833652973175049,"start":230057,"end":230083,"answer":"prolonged periods of time.","url":"https://www.safeworkaustralia.gov.au/covid-19-information-workplaces/industry-information/home-services/cleaning","exec_time":491.982985,"es_score":19.434814}}DONE!

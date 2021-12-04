@@ -2,6 +2,7 @@ import json
 from dotenv import load_dotenv, find_dotenv
 import os
 from fastapi import FastAPI, Request, HTTPException
+from fastapi.middleware.cors import CORSMiddleware
 from app.services import elasticsearch
 from app.services import bert
 import functools
@@ -14,6 +15,19 @@ ES_PORT = os.getenv("ES_PORT")
 
 # init fastapi
 app = FastAPI()
+
+origins = [
+    "http://localhost:3000",
+    "localhost:3000"
+]
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=origins,
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"]
+)
 
 # init elastic search object
 es = elasticsearch.init(ES_HOST, ES_PORT)
